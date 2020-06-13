@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Sesa Foods</string>
+
+    <string name="facebook_app_id">704451786976280</string>
+    <string name="fb_login_protocol_scheme">fb704451786976280</string>
+
+    <string name="API_URL"> https://joy-ubereat.herokuapp.com/api</string>
+    <string name="CLIENT_ID">FMVSn7uANtXO8cBCGn12nd3mJCyrO3UEUt44KbvN</string>
+    <string name="CLIENT_SECRET">2rRIFnJOJkyyBGlbL9tbCPe3i2cVN3mKeC83X6wj00A6vK9jpIqdW2NnRbswCSJzS8trQV6l1v7CLI48y4IsturBvdq7p7LN4PJxW8lTJeaTRXwtVenlfWmMq92yUd7w</string>
+
+<!--    <string name="API_URL"> http://192.168.43.6:8000/api</string>-->
+<!--    <string name="CLIENT_ID">R6QLA2L4jVOuXQ5kVhekjH6EiKeJOZf7Pp3lOdQu</string>-->
+<!--    <string name="CLIENT_SECRET">hgQStKzhYc8lNHJ6MQ3RwkWIX12Z1SswIaYPxMqVC4qmewfv68GkJ53tuh4WQQ3PLJG5jVDeJbX2xMt9zNMa4n3eCp9jJbPw6ZndfKxtTYWmJzdCVkLPSLbWQ3FhLIpZ</string>-->
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="googlemap_api_key">AIzaSyDpqGdtfjDtcORqvZQtZhhHFDZynuosyK8</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="server_client_id">773795143377-5mhkcesfff6k1r4tluh69cmomrmeg9ge.apps.googleusercontent.com</string>
+</resources>
